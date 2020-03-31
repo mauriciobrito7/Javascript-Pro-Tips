@@ -1,0 +1,22 @@
+{
+  "name": "javascriptprotips",
+  "version": "1.0.0",
+  "description": "best practices",
+  "main": "consolelog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciobrito7/Javascript-Pro-Tips.git"
+  },
+  "keywords": [
+    "tips"
+  ],
+  "author": "Mauricio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciobrito7/Javascript-Pro-Tips/issues"
+  },
+  "homepage": "https://github.com/mauriciobrito7/Javascript-Pro-Tips#readme"
+}
